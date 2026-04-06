@@ -1,16 +1,38 @@
-## Hi there 👋
+# Prachi Pandit
 
-<!--
-**prapdt-code/prapdt-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=185FA5&width=500&lines=CSE+Student;Python+Developer;Real+World+Problem+Solver)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prachi-pandit-bb82bb3b0/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Computer Science & Engineering student focused on building strong fundamentals and understanding logic from the ground up. This GitHub is a learning space — expect beginner-level code and consistent progress.
+
+---
+
+## Currently Learning
+
+- Python
+- Java (for DSA)
+- Web Development (HTML, CSS)
+- MS.Excel/Google Sheets
+
+---
+
+## Current Focus
+
+- Writing clean and simple code
+- DSA problem solving
+- SQL
+
+---
+
+## Goals
+
+- Build strong coding fundamentals
+- Learn DSA step-by-step
+- Create small web projects
+
+---
