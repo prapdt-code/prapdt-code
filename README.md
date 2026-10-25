@@ -16,7 +16,7 @@ Computer Science & Engineering student focused on building strong fundamentals a
 
 - Python
 - Java (for DSA)
-- Web Development (HTML, CSS)
+- Web Development (HTML, CSS, javascript)
 - MS.Excel/Google Sheets
 
 ---
