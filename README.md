@@ -1,6 +1,6 @@
 # Prachi Pandit
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=185FA5&width=500&lines=CSE+Student;Python+Developer;Real+World+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&pause=1000&color=185FA5&width=500&lines=CSE+Student;Real+World+Problem+Solver)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prachi-pandit-bb82bb3b0/)
 
